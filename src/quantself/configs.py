@@ -15,3 +15,5 @@
     c.
 
 """
+
+default_config = {}
