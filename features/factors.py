@@ -1,7 +1,7 @@
 import os
 import numpy as np
 import pandas as pd
-from features.factor_factory import *
+from features.factor_factory_old.price_volume_factors import *
 
 
 class FactorsCalculator:
